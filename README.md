@@ -4,7 +4,9 @@ Rewritten Bad Batch Mod  , made so i could share the fixes with current author s
  
 Changes
 
-Each piece of gear has their own unique basedef (parent)
+Each piece of gear has their own unique basedef (parent) which is used to setup the basics of each set of gear.
+
+Revamped ThingDefs for each set of armor with their new parents and cleaned up code because most of their settings are handled in the parents.
 
 Vacuum Resistance from Odyssey as per marine armor.
 
