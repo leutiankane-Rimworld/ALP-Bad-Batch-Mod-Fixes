@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Echo -->
+  <ResearchProjectDef>
+    <defName>Research_BadBatch_Echo</defName>
+    <label>Echo equipment</label>
+    <description>Unlocks Echo’s custom helmet and armor (via recipe prerequisites).</description>
+    <baseCost>800</baseCost>
+    <techLevel>Spacer</techLevel>
+    <tags>
+      <li>BadBatchArmors</li>
+    </tags>
+      <tab>BadBatchArmors</tab>
+      <researchViewX>0</researchViewX>
+      <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+
+  <!-- Wrecker (after Echo) -->
+  <ResearchProjectDef>
+    <defName>Research_BadBatch_Wrecker</defName>
+    <label>Wrecker equipment</label>
+    <description>Unlocks Wrecker’s custom helmet and armor (via recipe prerequisites).</description>
+    <baseCost>1000</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>Research_BadBatch_Echo</li>
+    </prerequisites>
+    <tags>
+      <li>BadBatchArmors</li>
+    </tags>
+      <tab>BadBatchArmors</tab>
+      <researchViewX>2</researchViewX>
+      <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+
+  <!-- Hunter (after Wrecker) -->
+  <ResearchProjectDef>
+    <defName>Research_BadBatch_Hunter</defName>
+    <label>Hunter equipment</label>
+    <description>Unlocks Hunter’s custom helmet and armor (via recipe prerequisites).</description>
+    <baseCost>1200</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>Research_BadBatch_Wrecker</li>
+    </prerequisites>
+    <tags>
+      <li>BadBatchArmors</li>
+    </tags>
+      <tab>BadBatchArmors</tab>
+      <researchViewX>4</researchViewX>
+      <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+
+  <!-- Crosshair (after Hunter) -->
+  <ResearchProjectDef>
+    <defName>Research_BadBatch_Crosshair</defName>
+    <label>Crosshair equipment</label>
+    <description>Unlocks Crosshair’s custom helmet and armor (via recipe prerequisites).</description>
+    <baseCost>1400</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>Research_BadBatch_Hunter</li>
+    </prerequisites>
+    <tags>
+      <li>BadBatchArmors</li>
+    </tags>
+      <tab>BadBatchArmors</tab>
+      <researchViewX>6</researchViewX>
+      <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+
+  <!-- Tech (after Crosshair) -->
+  <ResearchProjectDef>
+    <defName>Research_BadBatch_Tech</defName>
+    <label>Tech equipment</label>
+    <description>Unlocks Tech’s custom helmet and armor (via recipe prerequisites).</description>
+    <baseCost>1600</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>Research_BadBatch_Crosshair</li>
+    </prerequisites>
+    <tags>
+      <li>BadBatchArmors</li>
+    </tags>
+      <tab>BadBatchArmors</tab>
+      <researchViewX>8</researchViewX>
+      <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+</Defs>

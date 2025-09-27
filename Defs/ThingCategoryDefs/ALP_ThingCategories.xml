@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<!--Code by LeutianKane-->
+     <ThingCategoryDef>
+        <defName>ALP_BadBatch_Armor</defName>
+        <label>BadBatch</label>
+        <parent>ApparelArmor</parent>
+    </ThingCategoryDef>
+
+    <ThingCategoryDef>
+        <defName>ALP_BadBatch_HeadGear</defName>
+        <label>BadBatch</label>
+        <parent>ArmorHeadgear</parent>
+    </ThingCategoryDef>
+     
+</Defs>

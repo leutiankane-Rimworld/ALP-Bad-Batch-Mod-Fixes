@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+<!--Revamp Code by LeutianKane-->
+<!--Echo's Gear-->
+  <ThingDef ParentName="ALP_ApparelArmorEchoBase">
+    <defName>ALP_Echo</defName>
+    <label>Echo Armor</label>
+    <description>The custom armor of Echo, member of Clone Force 99.</description>
+    <apparel>
+      <tags>
+        <li>SpacerMilitary</li>
+      </tags>
+    </apparel>
+    <tradeTags>
+      <li>Armor</li>
+    </tradeTags>
+    <recipeMaker>
+      <displayPriority>100</displayPriority>
+    </recipeMaker> 
+  </ThingDef>
+
+  <ThingDef ParentName="ALP_ApparelArmorHelmetEchoBase">
+    <defName>ALP_Echo_Helmet</defName>
+    <label>Echo Helmet</label>
+    <description>The custom helmet of Echo, member of Clone Force 99.</description>
+    <apparel>
+      <tags>
+        <li>SpacerMilitary</li>
+      </tags>
+    </apparel>
+    <tradeTags>
+      <li>Armor</li>
+    </tradeTags>
+    <recipeMaker>
+      <displayPriority>100</displayPriority>
+    </recipeMaker>
+  </ThingDef>
+<!--Hunter's Gear-->
+  <ThingDef ParentName="ALP_ApparelArmorHunterBase">
+    <defName>ALP_Hunter</defName>
+    <label>Hunter Armor</label>
+    <description>The custom armor of Hunter, leader of Clone Force 99.</description>
+    <apparel>
+      <tags>
+        <li>SpacerMilitary</li>
+      </tags>
+    </apparel>
+    <tradeTags>
+      <li>Armor</li>
+    </tradeTags>
+    <recipeMaker>
+      <displayPriority>100</displayPriority>
+    </recipeMaker> 
+  </ThingDef>
+
+  <ThingDef ParentName="ALP_ApparelArmorHelmetHunterBase">
+    <defName>ALP_Hunter_Helmet</defName>
+    <label>Hunter Helmet</label>
+    <description>The custom helmet of Hunter, leader of Clone Force 99.</description>
+     <apparel>
+      <tags>
+        <li>SpacerMilitary</li>
+      </tags>
+    </apparel>
+    <tradeTags>
+      <li>Armor</li>
+    </tradeTags>
+    <recipeMaker>
+      <displayPriority>100</displayPriority>
+    </recipeMaker>
+    
+  </ThingDef>
+<!--Crosshair's Gear-->
+  <ThingDef ParentName="ALP_ApparelArmorCrosshairBase">
+    <defName>ALP_Crosshair</defName>
+    <label>Crosshair Armor</label>
+    <description>The custom armor of Crosshair, elite marksman of Clone Force 99.</description>
+    <apparel>
+      <tags>
+        <li>SpacerMilitary</li>
+      </tags>
+    </apparel>
+    <tradeTags>
+      <li>Armor</li>
+    </tradeTags>
+    <recipeMaker>
+      <displayPriority>100</displayPriority>
+      </recipeMaker>
+  </ThingDef>
+
+  <ThingDef ParentName="ALP_ApparelArmorHelmetCrosshairBase">
+    <defName>ALP_Crosshair_Helmet</defName>
+    <label>Crosshair Helmet</label>
+    <description>The custom helmet of Crosshair, elite marksman of Clone Force 99.</description>
+    <apparel>
+      <tags>
+        <li>SpacerMilitary</li>
+      </tags>
+    </apparel>
+    <tradeTags>
+      <li>Armor</li>
+    </tradeTags>
+    <recipeMaker>
+      <displayPriority>100</displayPriority>
+      </recipeMaker>
+  </ThingDef>
+<!--Wrecker's Gear-->
+  <ThingDef ParentName="ALP_ApparelArmorWreckerBase">
+    <defName>ALP_Wrecker</defName>
+    <label>Wrecker Armor</label>
+    <description>The custom armor of Wrecker, heavy of Clone Force 99.</description>
+    <apparel>
+      <tags>
+        <li>SpacerMilitary</li>
+      </tags>
+    </apparel>
+    <tradeTags>
+      <li>Armor</li>
+    </tradeTags>
+    <recipeMaker>
+      <displayPriority>100</displayPriority>
+    </recipeMaker> 
+  </ThingDef>
+
+  <ThingDef ParentName="ALP_ApparelArmorHelmetWreckerBase">
+    <defName>ALP_Wrecker_Helmet</defName>
+    <label>Wrecker Helmet</label>
+    <description>The custom helmet of Wrecker, heavy of Clone Force 99.</description>
+    <apparel>
+      <tags>
+        <li>SpacerMilitary</li>
+      </tags>
+    </apparel>
+    <tradeTags>
+      <li>Armor</li>
+    </tradeTags>
+    <recipeMaker>
+      <displayPriority>100</displayPriority>
+      </recipeMaker>
+  </ThingDef>
+<!--Tech's Gear-->
+  <ThingDef ParentName="ALP_ApparelArmorTechBase">
+    <defName>ALP_Tech</defName>
+    <label>Tech Armor</label>
+    <description>The custom armor of Tech, member of Clone Force 99.</description>
+   <apparel>
+      <tags>
+        <li>SpacerMilitary</li>
+      </tags>
+    </apparel>
+    <tradeTags>
+      <li>Armor</li>
+    </tradeTags>
+    <recipeMaker>
+      <displayPriority>100</displayPriority>
+      </recipeMaker> 
+  </ThingDef>
+
+  <ThingDef ParentName="ALP_ApparelArmorHelmetTechBase">
+    <defName>ALP_Tech_Helmet</defName>
+    <label>Tech Helmet</label>
+    <description>The custom helmet of Tech, member of Clone Force 99.</description>
+    <apparel>
+      <tags>
+        <li>SpacerMilitary</li>
+      </tags>
+    </apparel>
+    <tradeTags>
+      <li>Armor</li>
+    </tradeTags>
+    <recipeMaker>
+      <displayPriority>100</displayPriority>
+      </recipeMaker>
+  </ThingDef>
+
+</Defs>
