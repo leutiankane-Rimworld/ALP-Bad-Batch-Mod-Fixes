@@ -2,7 +2,7 @@
 Rewritten Bad Batch Mod  , made so i could share the fixes with current author so they can update their mod so it works better if they choose.
  just unzip these files and replace yours with them or use them to rewrite your own code , either way all i ask for is credit for the revamps on the mod page.
 
-Or,Just take the About and Defs Folders instead the zip also contains the textures thats why i had to zip it up github wouldnt let me upload all of them at once .
+Or,Just take the About and Defs Folders instead, the zip also contains the textures thats why i had to zip it up github wouldnt let me upload all of them at once .
  
 Changes
 
